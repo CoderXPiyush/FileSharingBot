@@ -8,7 +8,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     data = query.data
     if data == "about":
         await query.message.edit_text(
-            text = f"<b>○ Cʀᴇᴀᴛᴏʀ🔱 : <a href='tg://user?id={OWNER_ID}'>Tʜɪs Pᴇʀsᴏɴ</a>\n○ Lᴀɴɢᴜᴀɢᴇ : <code>Python3</code>\n○ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴀsʏɴᴄɪᴏ {__version__}</a>\n○ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href='https://github.com/PiyushAmarRahe/FileSaver'>Click here</a>\n○ Cʜᴀɴɴᴇʟ : @PiyushMalviyaOfficially\n○ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : @Cherished_Community</b>",
+            text = f"<b>○ Cʀᴇᴀᴛᴏʀ🔱 : <a href='https://t.me/FounderOfIlluminati'>Tʜɪs Pᴇʀsᴏɴ</a>\n○ Lᴀɴɢᴜᴀɢᴇ : <code>Python3</code>\n○ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴀsʏɴᴄɪᴏ {__version__}</a>\n○ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href='https://github.com/PiyushAmarRahe/FileSaver'>Click here</a>\n○ Cʜᴀɴɴᴇʟ : @Memes_Hub_India\n○ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ : @Cherished_Community</b>",
             disable_web_page_preview = True,
             reply_markup = InlineKeyboardMarkup(
                 [
