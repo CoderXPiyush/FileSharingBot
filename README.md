@@ -41,7 +41,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 The fastest way to deploy the application is to click the **Deploy to Koyeb** button below.
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBotz/File-Sharing-Bot&branch=koyeb&name=filesharingbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/PiyushAmarRahe/FileSaver&branch=koyeb&name=filesharingbot)
 
 
 #### Deploy in your VPS
