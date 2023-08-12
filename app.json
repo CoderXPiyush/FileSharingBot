@@ -1,5 +1,5 @@
 {
-  "name": "TG File Share/Sharing Bot",
+  "name": "File Saver",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/PiyushAmarRahe/FileSaver",
-  "logo": "https://ibb.co/FgPVtzw",
+  "logo": "https://te.legra.ph/file/a05391333df7bd2dba7c8.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
